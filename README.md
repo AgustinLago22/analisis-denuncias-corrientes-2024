@@ -20,6 +20,7 @@ El análisis se realiza sobre los datos públicos disponibles en el portal ofici
 - `csv/`: Carpeta que contiene los archivos `.csv` descargados desde el portal de datos.
   - `atencion_al_ciudadano_2024.csv`
   - `camaras_barrios.csv`
+  - `Barrios.csv`
 
 ---
 
@@ -27,8 +28,9 @@ El análisis se realiza sobre los datos públicos disponibles en el portal ofici
 
 Los datasets provienen del sitio oficial de datos abiertos del gobierno:
 
-- [Atención al Ciudadano 2024](https://datos.ciudaddecorrientes.gov.ar)
-- [Listado de cámaras por barrio](https://datos.ciudaddecorrientes.gov.ar)
+- [Atención al Ciudadano 2024](https://datos.ciudaddecorrientes.gov.ar/dataset/sistema-de-atencion-al-ciudadano)
+- [Centro de Operaciones y Monitoreo ](https://datos.ciudaddecorrientes.gov.ar/dataset/camaras)
+- [Barrios] (https://datos.ciudaddecorrientes.gov.ar/dataset/barrios/archivo/a3b229c5-08d8-4ca4-908e-d72b63eb295f)
 
 ---
 
