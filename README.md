@@ -72,11 +72,19 @@ Los datasets provienen del sitio oficial de datos abiertos del gobierno:
    ```
 
 2. **Crea y activa un entorno virtual**
+
+   ```bash
    python -m venv .venv
    .venv\Scripts\activate # En Windows
 
+   ```
+
 3. **Instala las dependencias necesarias**
+
+   ```bash
    .pip install pandas matplotlib
+
+   ```
 
 ## 📄 Licencia
 
