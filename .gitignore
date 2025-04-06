@@ -1,0 +1,16 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de sistema y backups
+*.log
+*.bak
+*.tmp
+
+# Ignorar archivos de VS Code
+.vscode/
+
+# Ignorar archivos grandes de datos (opcional)
+csv/
