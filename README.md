@@ -30,7 +30,7 @@ Los datasets provienen del sitio oficial de datos abiertos del gobierno:
 
 - [Atención al Ciudadano 2024](https://datos.ciudaddecorrientes.gov.ar/dataset/sistema-de-atencion-al-ciudadano)
 - [Centro de Operaciones y Monitoreo ](https://datos.ciudaddecorrientes.gov.ar/dataset/camaras)
-- [Barrios] (https://datos.ciudaddecorrientes.gov.ar/dataset/barrios/archivo/a3b229c5-08d8-4ca4-908e-d72b63eb295f)
+- [Barrios](https://datos.ciudaddecorrientes.gov.ar/dataset/barrios/archivo/a3b229c5-08d8-4ca4-908e-d72b63eb295f)
 
 ---
 
